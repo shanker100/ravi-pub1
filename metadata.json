@@ -1,0 +1,7 @@
+{
+  "name": "Confluence Voice Agent",
+  "description": "A real-time voice assistant powered by Gemini Live API to manage Confluence spaces and pages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
